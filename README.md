@@ -1,4 +1,4 @@
-## This is my coding profile ☝
+## This is my coding profile 👇
 Currently working on a raspberry pi version of a streamdeck and goxlr
 
 <!--
